@@ -1,0 +1,9 @@
+node_modules/
+**/node_modules/
+server/uploads/
+.env
+**/.env
+client/dist/
+*.log
+*.zip
+.DS_Store
